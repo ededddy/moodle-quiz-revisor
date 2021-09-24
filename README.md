@@ -1,7 +1,7 @@
 # moodle-quiz-revisor
 Tool for reviewing moodle quizes at UM
 # Original Author
-Gelgoog135
+[Gelgoog135](https://github.com/gelgoog135)
 # Contribution
 I made gelgoog135's console script into a TamperMonkey script so that we don't need to copy and paste this snippet everytime.
 I also added some part gelgoog135 missed.
